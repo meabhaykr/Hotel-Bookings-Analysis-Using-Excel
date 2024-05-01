@@ -1,4 +1,6 @@
-## Hotel Booking Analysis Project Using Excel
+##  Project Title: Hotel Booking Analysis Project Using Excel
+
+![Hotel Booking Analysis Project Using Excel.png](https://github.com/meabhaykr/Unraveling-Supply-Chain-using-Excel/blob/main/Unraveling%20Supply%20Chain%20using%20Excel.png)
 
 This repository showcases a comprehensive hotel booking analysis project completed in Excel. The project highlights data analysis, data cleaning, transformation, visualization skills using pivot tables and dashboards.
 
