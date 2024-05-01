@@ -1,5 +1,4 @@
-## Impressive Hotel Booking Analysis Project in Excel
-
+## Hotel Booking Analysis Project Using Excel
 
 This repository showcases a comprehensive hotel booking analysis project completed in Excel. The project highlights data analysis, data cleaning, transformation, visualization skills using pivot tables and dashboards.
 
