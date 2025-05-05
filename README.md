@@ -17,7 +17,6 @@ This repository showcases a comprehensive hotel booking analysis project complet
 * Microsoft Excel
 * Data Visualization (Dashboards)
 
-
 **Project Structure:**
 
 * `data` folder: Contains the raw and processed hotel booking data (replace with your data format).
